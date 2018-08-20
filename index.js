@@ -16,6 +16,10 @@ BoardMember.prototype.doCharity = function() {
   return 'I like to help people.'
 }
 
+BoardMember.prototype.releasePressStatement = function() {
+  return 'You will see greate things from Scuber.'
+}
+
 // function BoardMember(name, homeState, training){
 //   this.name = name
 //   this.homeState = homeState
